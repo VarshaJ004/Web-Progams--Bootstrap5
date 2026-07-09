@@ -1,6 +1,4 @@
-Here's a simple `README.md` you can use for your Bootstrap web programming assignments.
 
-# README
 
 ## Web Programming Using Bootstrap 5
 
